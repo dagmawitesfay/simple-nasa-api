@@ -2,7 +2,7 @@
 
 A lightweight web app that lets users pick a date and view NASA's Astronomy Picture of the Day (APOD) for that date. The app displays either an image or a video along with the title and description.
 
-# Deployed Link -> https://dagmawitesfay.github.io/simple-nasa-api/
+## Deployed Link -> https://dagmawitesfay.github.io/simple-nasa-api/
 
 ## Features
 
