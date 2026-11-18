@@ -1,5 +1,5 @@
 //The user will enter a date. Use that date to get the NASA picture of the day from that date! https://api.nasa.gov/
-const API_KEY = "mrlPEw3G0GSbdZ0gAz8oKuqU8xFn2ArRujzCZnPc&date";
+const API_KEY = "";
 
 const input = document.querySelector("input")
  document.querySelector("button").addEventListener("click",fetchNasaDate)
